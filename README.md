@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carolina</h1>
-<h3 align="center">A 1st year Computer Science student, at DEI</h3>
+<h3 align="center">A 2nd year Computer Science student, at DEI</h3>
 
 - 🔭 I’m currently working on **a Java project**
 
