@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a Java project**
 
-- 🌱 I’m currently learning **Java, Python with Numpy, Assembly for MIPS**
+- 🌱 I’m currently learning **Java, Python with Numpy, Assembly for MIPS (and other things in my free time...)**
 
 - 🤝 I’m looking for help with **Web Development and Cybersecurity Introduction**
 
