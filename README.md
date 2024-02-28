@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Carolina</h1>
 <h3 align="center">A 2nd year Computer Science student, at DEI</h3>
 
-- 🔭 I’m currently working on **a Java project**
+- 🔭 I’m currently working on several projects: **databases, networks management, signals analysis and recognition, algorithmic complexity and operating systems**
 
-- 🌱 I’m currently learning **Java, Python with Numpy, Assembly for MIPS (and other things in my free time...)**
+- 🌱 I’m currently learning **MATLAB, SQL, GNS3, Linux (and other things in my free time...)**
 
-- 🤝 I’m looking for help with **Web Development and Cybersecurity Introduction**
+- 🤝 I’m looking for help with **Cybersecurity Introduction**
 
 - 📫 How to reach me **https://discord.com/users/620438163009175562**
 
