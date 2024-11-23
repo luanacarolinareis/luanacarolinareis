@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Carolina</h1>
-<h3 align="center">A 2nd year Computer Science student, at DEI</h3>
+<h3 align="center">A 3rd year Computer Science student, at DEI</h3>
 
-- 🔭 I’m currently working on several projects: **databases, networks management, signals analysis and recognition, algorithmic complexity and operating systems**
+- 🔭 I’m currently working on several projects: **Software Engineering with PyQt6, Computer Graphics with OpenGL, Compilers, Android App**
 
-- 🌱 I’m currently learning **MATLAB, SQL, GNS3, Linux (and other things in my free time...)**
+- 🌱 I’m currently learning **PyQt6, Flask, SQLite, OpenGL, C, Lex, Yacc, Shell, Kotlin (and other things in my free time...)**
 
 - 🤝 I’m looking for help with **Cybersecurity Introduction**
 
