@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on several projects: **Distributed Systems - Googol Search Engine, Fundamentals of Artificial Intelligence- Lunar Lander Evolution, Multimedia - Music Information Retrieval, Algorithmic Strategies, Communication Protocols**
 
-- 🌱 I’m currently learning **Java (Spring Boot and REST API), Python (gymnasium, numpy, librosa, pandas, scipy, matplotlib), C++, Networks Configuration (and other things in my free time...)**
+- 🌱 I’m currently learning **Java (Spring Boot and REST API), Python (gymnasium, numpy, librosa, pandas, scipy and matplotlib), C++, Networks Configuration (and other things in my free time...)**
 
 - 🤝 I’m looking for help with **Cybersecurity Introduction**
 
