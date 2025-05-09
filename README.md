@@ -7,8 +7,6 @@
 
 - 🤝 I’m looking for help with **Cybersecurity Introduction**
 
-- 📫 How to reach me **https://www.linkedin.com/in/luanacarolinareis/**
-
 - ⚡ Portfolio **https://luanacarolina.me/**
 
 <br>
