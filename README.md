@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carolina</h1>
-<h3 align="center">A 3rd year Computer Science student, at DEI</h3>
+<h3 align="center">A 3rd year Computer Engineering student, at DEI</h3>
 
 - 🔭 I’m currently working on several projects: **Distributed Systems - Googol Search Engine, Fundamentals of Artificial Intelligence- Lunar Lander Evolution, Multimedia - Music Information Retrieval, Algorithmic Strategies, Communication Protocols**
 
