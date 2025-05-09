@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Carolina</h1>
 <h3 align="center">A 3rd year Computer Science student, at DEI</h3>
 
-- 🔭 I’m currently working on several projects: **Software Engineering with PyQt6, Computer Graphics with OpenGL, Compilers, Android App**
+- 🔭 I’m currently working on several projects: **Distributed Systems - Googol Search Engine, Fundamentals of Artificial Intelligence- Lunar Lander Evolution, Multimedia - Music Information Retrieval, Algorithmic Strategies, Communication Protocols**
 
-- 🌱 I’m currently learning **PyQt6, Flask, SQLite, OpenGL, C, Lex, Yacc, Shell, Kotlin (and other things in my free time...)**
+- 🌱 I’m currently learning **Java (Spring Boot and REST API), Python (gymnasium, numpy, librosa, pandas, scipy, matplotlib), C++, Networks Configuration (and other things in my free time...)**
 
 - 🤝 I’m looking for help with **Cybersecurity Introduction**
 
 - 📫 How to reach me **https://discord.com/users/620438163009175562**
 
-- ⚡ About me **https://linktr.ee/luanacarolinareis**
+- ⚡ Portfolio **https://luanacarolina.me/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
