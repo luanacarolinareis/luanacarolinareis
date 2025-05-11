@@ -66,6 +66,7 @@
 #### ⚙️ Other Technologies
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat&logo=arduino&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-%23000000.svg?style=flat&logo=kalilinux&logoColor=white)
 
 <br>
 <h3 align="left">Support:</h3>
