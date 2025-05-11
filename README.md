@@ -60,7 +60,7 @@
 #### 🌐 Networks and Virtualization
 ![GNS3](https://img.shields.io/badge/GNS3-3B99FC?style=flat)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-<br>Wireshark, VMware
+<br>Wireshark
 
 #### ⚙️ Other Technologies
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat&logo=arduino&logoColor=white)
