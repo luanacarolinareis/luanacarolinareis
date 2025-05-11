@@ -32,7 +32,7 @@
 <br>  
 <h3 align="left">Tech Stack:</h3>
 
-#### Languages
+#### 👨‍💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat)
@@ -41,7 +41,7 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white)
 
-#### Web & App
+#### 🌐 Web Development & Mobile
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
@@ -49,19 +49,23 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-#### Databases & DevOps
+#### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+<br>pgAdmin
+
+#### 🔧 Version Control
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
 
-#### Tools & Others
-![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat&logo=arduino&logoColor=white)
+#### 🌐 Networks and Virtualization
 ![GNS3](https://img.shields.io/badge/GNS3-3B99FC?style=flat)
-![Nmap](https://img.shields.io/badge/Nmap-004275?style=flat)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+<br>Wireshark, VMware
+
+#### ⚙️ Other Technologies
+![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat&logo=arduino&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-%23000000.svg?style=flat&logo=kalilinux&logoColor=white)
 
 <br>
 <h3 align="left">Support:</h3>
