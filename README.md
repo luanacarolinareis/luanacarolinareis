@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Carolina</h1>
-<h3 align="center">A 3rd year Computer Engineering student, at DEI</h3>
+<h3 align="center">A Computer Engineering graduate!</h3>
 
-- 🔭 I’m currently working on several projects: **Distributed Systems - Googol Search Engine, Fundamentals of Artificial Intelligence- Lunar Lander Evolution, Multimedia - Music Information Retrieval, Algorithmic Strategies, Communication Protocols**
+- 🔭 I’m currently working on ... **GGP Car Website**
 
-- 🌱 I’m currently learning **Java (Spring Boot and REST API), Python (gymnasium, numpy, librosa, pandas, scipy and matplotlib), C++, Networks Configuration (and other things in my free time...)**
+- 🌱 I’m currently **on vacation, waiting to start my master's degree**
 
 - 🤝 I’m looking for help with **Cybersecurity Introduction**
 
