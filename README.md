@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **GGP Car Website**
 
-- 🌱 I’m currently **on vacation, waiting to start my master's degree**
+- 🌱 I’m currently **starting my master's degree**
 
 - 🤝 I’m looking for help with **Cybersecurity Introduction**
 
