@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **GGP Car Website**
 
-- 🌱 I’m currently **starting my master's degree**
+- 🌱 I’m currently **in my master's degree (2nd year)**
 
-- 🤝 I’m looking for help with **Cybersecurity Introduction**
+- 🤝 I’m looking for help with **Virtual Realiy**
 
 - ⚡ Portfolio **https://luanacarolina.me/**
 
