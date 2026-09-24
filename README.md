@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carolina</h1>
 <h3 align="center">A Computer Engineering graduate!</h3>
 
-- 🔭 I’m currently working on **GGP Car Website**
+- 🔭 I’m currently working on **GGP Car Website & Divergi personal projects**
 
 - 🌱 I’m currently **in my master's degree (2nd year)**
 
